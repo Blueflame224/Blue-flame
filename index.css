@@ -2,3 +2,12 @@ body{
 font-family:Arial;
   color:dimgray;
 }
+.bnt{
+  padding:15px;
+  color:black;
+  background-color:yellow;
+  font-weight:500;
+  border:none;
+  border-style:solid;
+  border-radius:55px;
+}
